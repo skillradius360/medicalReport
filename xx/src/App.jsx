@@ -74,7 +74,7 @@ const WholeSlideImageViewer = () => {
         onClick={toggleZoom}
       >
         <img 
-          src="../public/wsi-image.png" 
+          src="./wsi-image.png" 
           alt="Blood cell sample" 
           className="w-full h-full object-cover"
         />
